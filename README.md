@@ -4,6 +4,7 @@ Data and analysis scripts for the paper "Reduced platelet formation associated w
 **EGA**
 
 *Bulk RNAseq data from ITGB3-deficient immortalized megakaryocyte cell lines*
+
 EGA accession code:
 
 **R scripts**
